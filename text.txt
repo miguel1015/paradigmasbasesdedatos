@@ -1,0 +1,27 @@
+Buen dia.
+En esta ocasion estare respondiendo algunas preguntas sobre el laboratio de paradigmas de base de datos.
+
+
+Define con tus propias palabras ¿Qué es una base de datos?.
+
+En mis plabras, base de datos es como un conjunto organizado de informaciones o de datos que se almacena en un sitema, todo tipo de informacion por muy grande o más sutanciosa que sea. Tambien es permanente y esta es su gracia, que siempre podmos encontrarla.
+
+
+¿Qué paradigmas de base de datos conoces?
+
+En las distintas formas en las base de datos podemos encontrar 7 paradigmas de la programacion. 
+Esta el key-value(llave-valor), el wide-column(columnas anchas), document oriented(codumento orientado), relational(relacional), graph(grafos), search(buscador),Multi model (multimodelo).
+
+¿En qué consiste cada paradigma y cuáles son sus ventajas?
+
+Cada paradigma tiene su propia forma de ser, veremos brevemente cada uno:
+
+-key-value(clave-valor): Es una base de datos no relacional que realiza un metodo simple el cual es un metodo de clave y un valor para almacenar datos. cada clave sirve como un identificador unico.
+
+-wide-column(columnas anchas): Una base de datos en columnas esta optimizada para lograr una recuperacion rapida en columna de datos, toda la informacion se va guardando como en filas. 
+-document oriented(codumento orientado): Es una base de datos no relacional, son caracterizados por almacenar informacion en registros, cada cual sabe lo que debe realizar, de manera autonoma.
+-relational(relacional): Esta base de datos es un conjunto de datos o elementos con relaciones predefinidas entre si mismos. se organizan en tablas con columnas.
+-graph(grafos): Es una plataforma especifica o de un solo proposito para crear y manipular grafos, este mismo contiene nodos, bordes y propiedades que se utilizan para almacenar datos.
+-search(buscador): En esta base de datos veremos que solamente se buscará en las tablas asociadas a transacciones definidas como Business
+Component (título y valor almacenado en sus atributos). 
+-Multi model (multimodelo): Es una plataforma de procesamiento de datos que soporta como dice su nombre, multiples modelos de datos, que definen los parametros de como se organiza y acomoda la infromacione en la base. 
